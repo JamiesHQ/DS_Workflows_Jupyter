@@ -1,4 +1,4 @@
-# End-to-End Data Science Workflows Jupyter
+# End-to-End Data Science Workflows in Jupyter
 
 ## Software Downloads
 Anaconda Python Distribution: https://www.anaconda.com/download/
