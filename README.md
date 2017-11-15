@@ -11,4 +11,5 @@ RISE:
 ## Data Downloads
 CDC Chronic Disease Indicators Dataset: https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi-e50c9  
 
-## Sample Jupyter Notebook
+## Sample Jupyter Notebook  
+https://github.com/JamiesHQ/DS_Workflows_Jupyter/blob/master/CDC_Chronic_Disease_Indicators_CDI_Analysis_US.ipynb
